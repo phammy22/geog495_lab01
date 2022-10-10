@@ -58,7 +58,7 @@ Zain Shoe is not just any shoe owned by Zain. It is a special shoe, a white and 
 
 <h2>How did Zain Shoe the meme originate?</h2>
 <p>
-Since Zain loves Seattle, he came to visit me for a few days. In order to show off his shoes to our friends, I began to send photos of his shoes to our friends (example seen above). Everyone seemed to love these photos of his shoe, thus beggining the saga of Zain Shoe.
+Since Zain loves Seattle, he came to visit me for a few days. In order to show off his shoes to our friends, I began to send photos of his shoes to our friends (example seen above). Everyone seemed to love these photos of his shoe, thus beginning the saga of Zain Shoe.
 </p>
 </body>
 </html>
