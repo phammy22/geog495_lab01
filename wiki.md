@@ -16,10 +16,13 @@ h2{
     font-size: 15px;
     font-family: Arial, sans-serif;
 }
-p, ol, li{
+p, ol, li, i{
     color: black;
     font-size: 15px;
     font-family: Times, serif;
+}
+i{
+    font-style: italic;
 }
 img{
     width: 150px;
@@ -45,7 +48,7 @@ img{
 
 <h2>Who is Zain?</h2>
 <p>
-Also known as *YungKeyloid* or *Syre*, Zain is one of my best friends that enjoys playing <a href="https://playvalorant.com/en-us/">Valorant</a> . He is very good at Valorant, with a peak rank of Immortal and current rank at Ascendant. He not from Seattle, but loves Seattle.
+Also known as <i>YungKeyloid</i> or <i>Syre</i>, Zain is one of my best friends that enjoys playing <a href="https://playvalorant.com/en-us/">Valorant</a> . He is very good at Valorant, with a peak rank of Immortal and current rank at Ascendant. He not from Seattle, but loves Seattle.
 </p>
 
 <h2>What is Zain Shoe?</h2>
